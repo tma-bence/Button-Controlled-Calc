@@ -1,0 +1,26 @@
+#row {
+    width: 250px;
+    margin-left: 49px;
+    /*border: 1px solid black;*/
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 50px;
+    float:left; /* add this */
+    /*border: 1px solid red;*/
+}
+#second {
+    width: 50px;
+    /*border: 1px solid green;*/
+    float: left;
+}
+#third {
+    width: 50px;
+    float:left; /* add this */
+    /*border: 1px solid blue;*/
+}
+#fourth {
+    width: 50px;
+    /*border: 1px solid purple;*/
+    float: left;
+}
